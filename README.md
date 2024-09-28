@@ -63,6 +63,10 @@ The script will download PDFs to the `pdffolder` and extract text to the `textfo
 
 This project is part of an internship at IIT Bombay. For major changes or suggestions, please open an issue first to discuss what you would like to change.
 
+## Contributor
+
+This repository is maintained by [Nitin Yadav](https://github.com/NitinYadav1511).
+
 ## License
 
 [MIT License](https://choosealicense.com/licenses/mit/)
